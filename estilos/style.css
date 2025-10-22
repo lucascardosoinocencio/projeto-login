@@ -132,20 +132,9 @@ section#login > div#formulario {
  form > a.botao {
     display: block;
     text-align: center;
-    font-size: 1em;
-    width: 80%;
-    height: 30px;
-    margin: auto;
-    background-color: white;
-    color: #565E8C;
-    border: 1px solid #565E8C;
-    border-radius: 7px;
-    text-decoration: none;
  }
 
- form > a.botao:hover {
-    background-color: #292C40;
- }
+
 
  form > a.botao > i {
     font-size: 0.8em;
