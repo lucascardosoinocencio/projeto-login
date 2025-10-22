@@ -115,8 +115,9 @@ section#login > div#formulario {
  form > input[type=submit] {
     display: block;
     font-size: 1em;
-    width: 100%;
+    width: 80%;
     height: 30px;
+    margin: auto;
     background-color: #292C40;
     color: white;
     border: none;
@@ -132,8 +133,9 @@ section#login > div#formulario {
     display: block;
     text-align: center;
     font-size: 1em;
-    width: 100%;
+    width: 80%;
     height: 30px;
+    margin: auto;
     background-color: white;
     color: #565E8C;
     border: 1px solid #565E8C;
