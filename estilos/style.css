@@ -71,6 +71,7 @@ section#login > div#formulario {
  }
 
  div#formulario > p {
+    width: 97%;
     font-size: 0.8em;
     text-align: center;
  }
