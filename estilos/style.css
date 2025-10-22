@@ -81,19 +81,19 @@ section#login > div#formulario {
  div.campo > span {
     color: white;
     font-size: 1.5em;
-    width: 25px;
-    padding: 2px;
+    width: 30px;
+    padding: 5px;
  }
 
  div.campo > input {
     background-color: #565E8C;
     font-size: 1em;
-    width: calc(100% - 29.5px);
+    width: calc(100% - 35px);
     height: 100%;
     border: 0px;
     border-radius: 8px;
-    padding: 0px;
-    transform: translateY(-8px);
+    padding: 4px;
+    transform: translateY(-4px);
  }
 
  form > div.campo {
@@ -101,9 +101,9 @@ section#login > div#formulario {
     border: 2px solid #393940;
     display: block;
     width: 90%;
-    height: 25px;
+    height: 40px;
     border-radius: 8px;
-    margin: 5px 10px;
+    margin: 12px 10px;
  }
 
  div.campo > input:focus-within {
